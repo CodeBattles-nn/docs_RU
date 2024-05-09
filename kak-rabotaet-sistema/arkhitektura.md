@@ -10,7 +10,9 @@ _<mark style="color:green;">**Init Configurer**</mark>_ - исполнение s
 
 _<mark style="color:blue;">**PostgeSQL**</mark>_ - база данных (...)
 
-_<mark style="color:purple;">Frontend</mark>_ - Nginx (JS, React)
+_<mark style="color:purple;">Frontend</mark>_ -Для интерфейса учителя  Nginx (JS, React)&#x20;
+
+_<mark style="color:purple;">Frontend\_2</mark>_ -Для интерфейса участника Nginx (JS, React)
 
 _<mark style="color:orange;">Backend</mark>_ - api (Python, Flask)
 
