@@ -19,7 +19,7 @@ python3 manager.py create {NAME} -f -e
 
 После этого в папке programms появилась наша папка( В примере {NAME} = test}
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Имя файла       | Предназначение         |
 | --------------- | ---------------------- |
