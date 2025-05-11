@@ -11,6 +11,7 @@
 
 * [Установка](ustanovka/ustanovka.md)
 * [Значения по умолчанию](ustanovka/znacheniya-po-umolchaniyu.md)
+* [Как зайти](ustanovka/kak-zaiti.md)
 * [Настройка языков программирования](ustanovka/nastroika-yazykov-programmirovaniya.md)
 * [Образы чекеров](ustanovka/obrazy-chekerov.md)
 
